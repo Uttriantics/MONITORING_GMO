@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.57963352587981, 2.127692686498779]
+      },
+      "properties": {
+        "Id": 1,
+        "nama": "FRONT BUKIT KACA",
+        "deskripsi": "ELEVASI +8.482",
+        "foto": "img/kaca.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.58048871586895, 2.1258689228772862]
+      },
+      "properties": {
+        "Id": 2,
+        "nama": "FRONT BUKIT CEKPOND",
+        "deskripsi": "ELEVASI +7.458",
+        "foto": "img/cekpond.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.57583802856941, 2.126885498284377]
+      },
+      "properties": {
+        "Id": 3,
+        "nama": "EMBANKMENT BELIBIS",
+        "deskripsi": "ELEVASI +10.206",
+        "foto": "img/embankment_belibis.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.5861068320196, 2.1304615446228232]
+      },
+      "properties": {
+        "Id": 4,
+        "nama": "FRONT BUKIT RINDU",
+        "deskripsi": "ELEVASI +48.943",
+        "foto": "img/bukit_rindu.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.57622038539792, 2.133706391721628]
+      },
+      "properties": {
+        "Id": 5,
+        "nama": "BAHU JALAN NEGARA STA 2+000",
+        "deskripsi": "ELEVASI +5.034",
+        "foto": "img/bahu_jalan.jpg"
+      }
+    }
+
+  ]
+}
