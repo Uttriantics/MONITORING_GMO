@@ -12,7 +12,7 @@
         "Id": 1,
         "nama": "FRONT BUKIT KACA",
         "deskripsi": "ELEVASI +8.482",
-        "foto": "img/kaca.jpg"
+        "foto": "kaca.jpg"
       }
     },
 
@@ -26,7 +26,7 @@
         "Id": 2,
         "nama": "FRONT BUKIT CEKPOND",
         "deskripsi": "ELEVASI +7.458",
-        "foto": "img/cekpond.jpg"
+        "foto": "cekpond.jpg"
       }
     },
 
@@ -40,7 +40,7 @@
         "Id": 3,
         "nama": "EMBANKMENT BELIBIS",
         "deskripsi": "ELEVASI +10.206",
-        "foto": "img/embankment_belibis.jpg"
+        "foto": "embankment_belibis.jpg"
       }
     },
 
@@ -54,7 +54,7 @@
         "Id": 4,
         "nama": "FRONT BUKIT RINDU",
         "deskripsi": "ELEVASI +48.943",
-        "foto": "img/bukit_rindu.jpg"
+        "foto": "bukit_rindu.jpg"
       }
     },
 
@@ -68,7 +68,7 @@
         "Id": 5,
         "nama": "BAHU JALAN NEGARA STA 2+000",
         "deskripsi": "ELEVASI +5.034",
-        "foto": "img/bahu_jalan.jpg"
+        "foto": "bahu_jalan.jpg"
       }
     }
 
