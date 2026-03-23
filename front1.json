@@ -2,6 +2,35 @@
   "type": "FeatureCollection",
   "features": [
 
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.582223, 2.133741]
+      },
+      "properties": {
+        "Id": 1,
+        "nama": "CHANGESHIFT",
+        "deskripsi": "-",
+        "foto": "changeshift.jpg"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.576999, 2.131151]
+      },
+      "properties": {
+        "Id": 1,
+        "nama": "WMP 07",
+        "deskripsi": "-",
+        "foto": "wmp.jpg"
+      }
+    },
+    
     {
       "type": "Feature",
       "geometry": {
