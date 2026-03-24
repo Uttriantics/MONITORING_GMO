@@ -2,7 +2,6 @@
   "type": "FeatureCollection",
   "features": [
 
-
     {
       "type": "Feature",
       "geometry": {
@@ -24,7 +23,7 @@
         "coordinates": [117.5733, 2.1288]
       },
       "properties": {
-        "Id": 1,
+        "Id": 2,
         "nama": "EMBANKMENT WMP",
         "deskripsi": "24 Maret 2026 = Elevasi +11.462",
         "foto": "changeshift.jpg"
@@ -38,7 +37,7 @@
         "coordinates": [117.576999, 2.131151]
       },
       "properties": {
-        "Id": 1,
+        "Id": 3,
         "nama": "WMP 07",
         "deskripsi": "-",
         "foto": "wmp.jpg"
@@ -52,9 +51,9 @@
         "coordinates": [117.57963352587981, 2.127692686498779]
       },
       "properties": {
-        "Id": 1,
+        "Id": 4,
         "nama": "FRONT BUKIT KACA",
-        "deskripsi": "23 Maret 2026 = ELEVASI +8.482/n24 Maret 2026 = Elevasi +7.268",
+        "deskripsi": "23 Maret 2026 = ELEVASI +8.482\n24 Maret 2026 = Elevasi +7.268",
         "foto": "kaca.jpg"
       }
     },
@@ -66,9 +65,9 @@
         "coordinates": [117.58048871586895, 2.1258689228772862]
       },
       "properties": {
-        "Id": 2,
+        "Id": 5,
         "nama": "FRONT BUKIT CEKPOND",
-        "deskripsi": "23 Maret 2026 = ELEVASI +8.426/n24 Maret 2026 = Elevasi +8.659",
+        "deskripsi": "23 Maret 2026 = ELEVASI +8.426\n24 Maret 2026 = Elevasi +8.659",
         "foto": "cekpond.jpg"
       }
     },
@@ -80,9 +79,9 @@
         "coordinates": [117.57583802856941, 2.126885498284377]
       },
       "properties": {
-        "Id": 3,
+        "Id": 6,
         "nama": "EMBANKMENT BELIBIS",
-        "deskripsi": "23 Maret 2026 = ELEVASI +10.223/n24 Maret 2026 = Elevasi +10.464 ",
+        "deskripsi": "23 Maret 2026 = ELEVASI +10.223\n24 Maret 2026 = Elevasi +10.464",
         "foto": "embankment_belibis.jpg"
       }
     },
@@ -94,7 +93,7 @@
         "coordinates": [117.5861068320196, 2.1304615446228232]
       },
       "properties": {
-        "Id": 4,
+        "Id": 7,
         "nama": "FRONT BUKIT RINDU",
         "deskripsi": "ELEVASI +48.943",
         "foto": "bukit_rindu.jpg"
@@ -108,7 +107,7 @@
         "coordinates": [117.57622038539792, 2.133706391721628]
       },
       "properties": {
-        "Id": 5,
+        "Id": 8,
         "nama": "BAHU JALAN NEGARA STA 2+000",
         "deskripsi": "ELEVASI +5.034",
         "foto": "bahu_jalan.jpg"
