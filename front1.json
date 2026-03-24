@@ -16,6 +16,20 @@
         "foto": "changeshift.jpg"
       }
     },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.5733, 2.1288]
+      },
+      "properties": {
+        "Id": 1,
+        "nama": "EMBANKMENT WMP",
+        "deskripsi": "24 Maret 2026 = Elevasi +11.462",
+        "foto": "changeshift.jpg"
+      }
+    },
     
     {
       "type": "Feature",
@@ -40,8 +54,7 @@
       "properties": {
         "Id": 1,
         "nama": "FRONT BUKIT KACA",
-        "deskripsi": "23 Maret 2026 = ELEVASI +8.482
-        24 Maret 2026 = Elevasi +7.268",
+        "deskripsi": "23 Maret 2026 = ELEVASI +8.482/n24 Maret 2026 = Elevasi +7.268",
         "foto": "kaca.jpg"
       }
     },
@@ -55,8 +68,7 @@
       "properties": {
         "Id": 2,
         "nama": "FRONT BUKIT CEKPOND",
-        "deskripsi": "23 Maret 2026 = ELEVASI +8.426
-        24 Maret 2026 = Elevasi +8.659",
+        "deskripsi": "23 Maret 2026 = ELEVASI +8.426/n24 Maret 2026 = Elevasi +8.659",
         "foto": "cekpond.jpg"
       }
     },
@@ -70,7 +82,7 @@
       "properties": {
         "Id": 3,
         "nama": "EMBANKMENT BELIBIS",
-        "deskripsi": "ELEVASI +10.223",
+        "deskripsi": "23 Maret 2026 = ELEVASI +10.223/n24 Maret 2026 = Elevasi +10.464 ",
         "foto": "embankment_belibis.jpg"
       }
     },
