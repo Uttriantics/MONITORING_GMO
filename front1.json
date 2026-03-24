@@ -40,7 +40,8 @@
       "properties": {
         "Id": 1,
         "nama": "FRONT BUKIT KACA",
-        "deskripsi": "ELEVASI +8.482",
+        "deskripsi": "23 Maret 2026 = ELEVASI +8.482
+        24 Maret 2026 = Elevasi +7.268",
         "foto": "kaca.jpg"
       }
     },
@@ -54,7 +55,8 @@
       "properties": {
         "Id": 2,
         "nama": "FRONT BUKIT CEKPOND",
-        "deskripsi": "ELEVASI +8.426",
+        "deskripsi": "23 Maret 2026 = ELEVASI +8.426
+        24 Maret 2026 = Elevasi +8.659",
         "foto": "cekpond.jpg"
       }
     },
